@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BonusTask/static/css/main.d4dd41de.chunk.css",
-    "main.js": "/BonusTask/static/js/main.2ad9abb8.chunk.js",
-    "main.js.map": "/BonusTask/static/js/main.2ad9abb8.chunk.js.map",
+    "main.css": "/BonusTask/static/css/main.3d6798df.chunk.css",
+    "main.js": "/BonusTask/static/js/main.13cd6016.chunk.js",
+    "main.js.map": "/BonusTask/static/js/main.13cd6016.chunk.js.map",
     "runtime-main.js": "/BonusTask/static/js/runtime-main.13db8273.js",
     "runtime-main.js.map": "/BonusTask/static/js/runtime-main.13db8273.js.map",
     "static/js/2.c4c7de00.chunk.js": "/BonusTask/static/js/2.c4c7de00.chunk.js",
     "static/js/2.c4c7de00.chunk.js.map": "/BonusTask/static/js/2.c4c7de00.chunk.js.map",
     "index.html": "/BonusTask/index.html",
-    "static/css/main.d4dd41de.chunk.css.map": "/BonusTask/static/css/main.d4dd41de.chunk.css.map",
+    "static/css/main.3d6798df.chunk.css.map": "/BonusTask/static/css/main.3d6798df.chunk.css.map",
     "static/js/2.c4c7de00.chunk.js.LICENSE.txt": "/BonusTask/static/js/2.c4c7de00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.13db8273.js",
     "static/js/2.c4c7de00.chunk.js",
-    "static/css/main.d4dd41de.chunk.css",
-    "static/js/main.2ad9abb8.chunk.js"
+    "static/css/main.3d6798df.chunk.css",
+    "static/js/main.13cd6016.chunk.js"
   ]
 }
