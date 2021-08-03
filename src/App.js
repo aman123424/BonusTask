@@ -1,24 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import Title from './components/title';
+import Form from './components/form';
+import {Switch,Route} from 'react-router-dom'; 
+import Confirm from './components/confirm';
 
 function App() {
+
+
   return (
+    <Switch><Route path='/' exact>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Title />
+      <Form />
     </div>
+    </Route>
+    <Route path='/confirm' exact><Confirm /></Route>
+    </Switch>
   );
 }
 

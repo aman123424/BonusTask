@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 15px 300px;
+  font-size: 17px;
+  padding: 8px;
+}
+
+.container {
+  background-color: wheat;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding-right: 5px;
+  text-align: left;
+}
+
+button {
+  width: 20%;
+  font-size: xx-large;
+  background-color: red;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(19, 117, 15);
+  cursor: pointer;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  margin: 10px;
+}
+input[type="text"]:hover,
+input[type="email"]:hover,
+input[type="number"]:hover,
+input[type="date"]:hover,
+.gender:hover {
+  background-color: rgb(240, 235, 235);
+}
+
+#name,
+#email,
+#message,
+#subject {
+  border: 1px solid black;
+}
+.alpha {
+  padding: 10px;
+}
+.image {
+  float: right;
+}
+.image:hover {
+  cursor: pointer;
+}
+
+.user_image {
+  align-items: center;
+}
+
+.date-class {
+  padding-right: 190px;
+}
+
+input[type="date"] {
+  padding-right: 540px;
+}
+
+.gender {
+  background-color: white;
+  text-align: left;
+  border-radius: 6px;
+  width: 80px;
+  height: 35px;
+}

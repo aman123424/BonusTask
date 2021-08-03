@@ -1,0 +1,25 @@
+.title-parent-div {
+  background-color: red;
+  padding: 10px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.heading1 {
+  font: size 50px;
+  padding-left: 225px;
+}
+
+.heading2 {
+  font: size 50px;
+  padding-left: 225px;
+}
+
+.image {
+  padding-top: 15px;
+  padding-right: 250px;
+}
